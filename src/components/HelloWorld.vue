@@ -9,6 +9,9 @@
             <small>
               <em>&mdash;John Johnson</em>
             </small>
+            <small>
+              <em>&mdash;Sounds Good</em>
+            </small>
           </footer>
         </blockquote>
       </v-layout>
