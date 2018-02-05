@@ -10,7 +10,7 @@
               <em>&mdash;John Johnson</em>
             </small>
             <small>
-              <em>&mdash;Sounds Good</em>
+              <em>&mdash;Sounds Good to me</em>
             </small>
           </footer>
         </blockquote>
