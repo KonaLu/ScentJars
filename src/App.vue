@@ -77,9 +77,22 @@ export default {
       drawer: true,
       fixed: false,
       items: [{
-        icon: 'bubble_chart',
-        title: 'Inspire'
-      }],
+        icon: 'view_list',
+        title: 'List Information'
+      },
+      {
+        icon: 'add_box',
+        title: 'Add Information'
+      },
+      {
+        icon: 'list',
+        title: 'Sort by Name'
+      },
+      {
+        icon: 'list',
+        title: 'Sort by Age'
+      }
+      ],
       miniVariant: false,
       right: true,
       rightDrawer: false,
