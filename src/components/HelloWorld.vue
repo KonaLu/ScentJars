@@ -3,17 +3,20 @@
     <v-slide-y-transition mode="out-in">
       <v-layout column align-center>
         <img src="@/assets/WOSAR.jpg" alt="Vuetify.js" class="mb-5">
-        <blockquote>
-          &#8220;First, solve the problem. Then, write the code.&#8221;
-          <footer>
-            <small>
-              <em>&mdash;John Johnson</em>
-            </small>
-            <small>
-              <em>&mdash;Sounds Good to me, shall we start?</em>
-            </small>
-          </footer>
-        </blockquote>
+        <h1>White Oak Search and Rescue</h1>
+        <h3> This WebApp contains the information for the Scent Saver Project being conducted by White Oak
+          Search and Rescue Personnel. This project consists of distributing scent jars to the general
+          public for use with high risk population. The person's scent will be collected on the 
+          included cotton gauze pads and sealed in the jars. 
+          The scent jars will be collected and used in the
+          event of a missing person emergency. 
+          The scent jars will be used by scent specific trailing
+          dogs to locate the missing person. Testing of the validity of the scent jars will also 
+          be done. Testing will consist of trailing dogs following the lost person trail during training
+          exercises weeks and months after the scent is collected. 
+          Additional testing will be 
+          done by independent chemical analysis.
+        </h3>
       </v-layout>
     </v-slide-y-transition>
   </v-container>
@@ -22,7 +25,10 @@
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h1, h2 {
+  font-family: "Times New Roman", Times, serif;
   font-weight: normal;
+  font-size: 500%;
+  color: DarkOrange;
 }
 ul {
   list-style-type: none;
