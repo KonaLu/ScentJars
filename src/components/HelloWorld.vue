@@ -30,6 +30,10 @@ h1, h2 {
   font-size: 500%;
   color: DarkOrange;
 }
+h3 {
+    font-size: 100%;
+    max-width: 50%;
+}
 ul {
   list-style-type: none;
   padding: 0;
