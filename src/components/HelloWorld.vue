@@ -2,7 +2,7 @@
   <v-container fluid>
     <v-slide-y-transition mode="out-in">
       <v-layout column align-center>
-        <img src="@/assets/WOSAR.jpg" alt="Vuetify.js" class="mb-5">
+        <img src="@/assets/WOSAR.jpg" alt="WOSAR img" class="mb-5">
         <h1>White Oak Search and Rescue</h1>
         <h3> This WebApp contains the information for the Scent Saver Project being conducted by White Oak
           Search and Rescue Personnel. This project consists of distributing scent jars to the general
